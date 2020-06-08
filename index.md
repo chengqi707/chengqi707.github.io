@@ -1,32 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages of chengqi(程琦)
 
 You can use the [editor on GitHub](https://github.com/chengqi707/chengqi707.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 个人信息
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 最新消息
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### 研究方向
 
-1. Numbered
-2. List
+#### 基于
 
-**Bold** and _Italic_ and `Code` text
+#### 基于
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 荣誉奖励
 
 ### Jekyll Themes
 
