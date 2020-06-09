@@ -27,9 +27,7 @@
 #### 基于边缘计算的360云VR视频传输
 
   涉及如何在360云VR视频传输场景下，将边缘计算、视频编码、边缘缓存、FoV预测等技术结合起来，保障用户QoS。
-  <div align=center>
-	  <img src="/Proposed_modeling_scenario_diagram.png"  width="50%"> 
-  </div>
+	<img src="/Proposed_modeling_scenario_diagram.png"  width="50%"> 
 
 #### 基于博弈论和优化理论的虚拟运营商方案设计
 
