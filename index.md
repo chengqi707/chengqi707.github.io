@@ -34,6 +34,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ##### 2018浙江省电子设计竞赛三等奖和校赛二等奖
 ##### 2018全国大学生信息安全竞赛三等奖
 ##### 2019优秀本科毕业生设计
+##### 专利授权：一种智能自主定位和充电的车辆无线充电系统
 #### 硕士阶段
 
 
