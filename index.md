@@ -1,9 +1,5 @@
 ## Welcome to GitHub Pages of chengqi(程琦)
 
-You can use the [editor on GitHub](https://github.com/chengqi707/chengqi707.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### 个人信息
 
 #### 姓名 程琦
@@ -37,11 +33,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ##### 专利授权：一种智能自主定位和充电的车辆无线充电系统
 #### 硕士阶段
 
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chengqi707/chengqi707.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
