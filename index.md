@@ -22,19 +22,20 @@
 2019~2022 浙江大学信息与通信工程硕士
 
 ### 最新消息
-2020.5~2020.7 文献阅读 
+2021.4~2021.7 文献阅读 
 
 ### 研究方向
 
 #### 基于边缘计算的360云VR视频传输
 
-  涉及如何在360云VR视频传输场景下，将边缘计算、视频编码、边缘缓存、FoV预测等技术结合起来，保障用户QoS。
-  成果：一篇Transactions on multimedia (TOP SCI)
+该工作提出了一种基于边缘计算和主动缓存的VR视频传输系统，同时考虑了用户视野预测机制、视频编解码等操作，并分析了所提出的系统端到端时延和用户的体验度，证明了边缘计算和主动缓存给该方案带来的性能提升。
+  成果：Top SCI: Design and Analysis of MEC and Proactive Caching based 360° Mobile VR Video Streaming, Transactions on multimedia, 2021.
   <img src="/Proposed_modeling_scenario_diagram.png"  width="50%"> 
 
 #### 基于博弈论和优化理论的虚拟运营商方案设计
 
-  从网络经济学角度考虑虚拟运营商同时作为运营商与ISP能够给MNO、MVNO、UE带来的增益。
+该工作考虑在例如阿里这样的电商平台同时作为电信虚拟运营商的情况下，提出了一种新颖的激励机制：通过给用户提供数据流量奖励的方案来进行商家广告的定向投放，并通过博弈论的方法进行纳什均衡的求解，以实现电信运营商、电子商务平台、商家和用户的共赢。
+成果：会议一作: When Virtual Network Operator Meets E-Commerce Platform: Advertising via Data Reward, IWQoS(CCF-B), 2021.
 
 ### 荣誉奖励
 #### 本科阶段
