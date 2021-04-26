@@ -29,12 +29,14 @@
 #### 基于边缘计算的360云VR视频传输
 
 该工作提出了一种基于边缘计算和主动缓存的VR视频传输系统，同时考虑了用户视野预测机制、视频编解码等操作，并分析了所提出的系统端到端时延和用户的体验度，证明了边缘计算和主动缓存给该方案带来的性能提升。
+
   成果：Top SCI: Design and Analysis of MEC and Proactive Caching based 360° Mobile VR Video Streaming, Transactions on multimedia, 2021.
   <img src="/Proposed_modeling_scenario_diagram.png"  width="50%"> 
 
 #### 基于博弈论和优化理论的虚拟运营商方案设计
 
 该工作考虑在例如阿里这样的电商平台同时作为电信虚拟运营商的情况下，提出了一种新颖的激励机制：通过给用户提供数据流量奖励的方案来进行商家广告的定向投放，并通过博弈论的方法进行纳什均衡的求解，以实现电信运营商、电子商务平台、商家和用户的共赢。
+
 成果：会议一作: When Virtual Network Operator Meets E-Commerce Platform: Advertising via Data Reward, IWQoS(CCF-B), 2021.
 
 ### 荣誉奖励
